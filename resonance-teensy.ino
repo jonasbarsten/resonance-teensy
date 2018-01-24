@@ -1,4 +1,4 @@
-// Simple LED blink
+// Resonance Teensy
 
 const int solenoid = 12;
 const int led = LED_BUILTIN;
